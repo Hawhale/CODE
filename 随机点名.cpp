@@ -2,7 +2,6 @@
 #include <ctime>//时间头文件
 #include <iostream>//IO流头文件
 
-//在宏定义中定义一个random(int number)函数，这样就可以在main()里面直接调用random()函数，
 
 int Name(int random_number);
 //定义一个函数叫Name，包含对象random_number,它可以将随机生成的数字转换成对应的人名
